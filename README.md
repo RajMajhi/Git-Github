@@ -1,17 +1,15 @@
-# Complete Git & GitHub Guide (All-in-One)
-
-**Author:** Raj Majhi  
+# Complete Git & GitHub Guide (All-in-One)  
 
 This repository is a complete beginner-to-intermediate reference for **Git and GitHub**.  
 It explains what Git/GitHub are, how they work, and includes **well-commented commands** with their uses.
 
 ---
 
-# 📌 What is Git?
+#  What is Git?
 
 Git is a **free and open-source Version Control System (VCS)** used to track changes in source code.
 
-### ✅ Uses of Git
+### Uses of Git
 - Track project history  
 - Revert to older versions  
 - Work safely on large projects  
@@ -27,7 +25,7 @@ It is like a **social platform for developers**, where repositories can be pushe
 
 ---
 
-# 🧾 What is a README?
+#  What is a README?
 
 A `README.md` file describes:
 - What the project does  
@@ -38,7 +36,7 @@ Markdown (`.md`) helps format content on GitHub.
 
 ---
 
-# ⚙️ Installing & Checking Git
+#  Installing & Checking Git
 
 ```bash
 git --version        # Checks whether Git is installed and shows the version
